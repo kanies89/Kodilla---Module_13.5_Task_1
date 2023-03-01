@@ -1,5 +1,6 @@
-# Kodilla---Module_13.5_Task_1
+# Scikit-learn-regression
 
-Python / NumPy / Pandas / Matplotlib / Seaborn / Scikit-learn / Jupyter Notebook
+Python / Jupyter notebook
+libraries: NumPy / Pandas / Matplotlib / Seaborn / Scikit-learn
 
 Checking the difference between linear regression and polynomial regression - Residuial plot / MAE / RMSE / MSE / MAPE.
